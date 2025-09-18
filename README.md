@@ -4,7 +4,8 @@
 
 > <b>교과서 기반 학습 도우미</b>
 
-
+<img width="303" alt="0f457946-9159-4e14-86ee-3058e0e6be89" src="https://github.com/user-attachments/assets/025781e3-5d74-4cef-858e-2d1d769b60ec" />
+<img width="300" alt="40fe1fd4-32cd-42ca-8b65-f1515dfaa1cf" src="https://github.com/user-attachments/assets/2e8faa81-7b25-4089-88cc-6a331907d194" />
 
 ## 프로젝트 소개
 
@@ -42,6 +43,8 @@
 교과서의 지문 일부분을 촬영하면 이를 그림으로 시각화하고, 내용을 요약해주는 앱입니다. <br/>
 지문의 이해가 어려운 학생들을 위해 지문 내용을 시각화합니다. <br/>
 2024 K-TECH 아이디어 챌린지에서 장려상을 수상받은 작품입니다.
+
+> <img width="400" alt="9e4ab187-f62d-4387-bc40-b87edeb20c9f" src="https://github.com/user-attachments/assets/06c6cd60-3314-47fb-85f8-d23428ab03bc" />
 
 ### 주요 기능
 - 로그인/회원가입 (Firebase)
