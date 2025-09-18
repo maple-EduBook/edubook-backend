@@ -1,0 +1,4 @@
+__pycache__/*
+img/**
+pdf/**
+util/__pycache__/*
